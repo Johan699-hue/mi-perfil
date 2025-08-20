@@ -23,14 +23,12 @@
 ---
 
 ## 🚀 Sobre mí
-Soy estudiante de **Tecnología en Desarrollo de Software** en la **Universidad Católica Lumen Gentium**, actualmente en 5º semestre. Me apasiona la creación de aplicaciones que resuelvan problemas reales, con un enfoque en **calidad de software, datos y diseño estructurado**.  
+Soy estudiante de **Tecnología en Desarrollo de Software** en la **Universidad Católica Lumen Gentium**, actualmente en 6º semestre. Me apasiona la creación de aplicaciones que resuelvan problemas reales, con un enfoque en **calidad de software, datos y diseño estructurado**.  
 
 ---
 
 ## 📫 Cómo contactarme
 - ✉️ Correo: *(puedes poner el tuyo aquí)*  
-- 💼 LinkedIn: *(si tienes, lo añadimos aquí)*  
-
 ---
 
 ✨ _Gracias por visitar mi perfil en GitHub_ ✨
